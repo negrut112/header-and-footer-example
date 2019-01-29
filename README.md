@@ -4,7 +4,7 @@ Here is a possible simple header and a footer example made with help of HTML and
 
 You can check a live preview on: https://negrut112.github.io/header-and-footer-example/
 
-https://i.imgur.com/Oq91jUj.jpg
+<img src="https://i.imgur.com/Oq91jUj.jpg">
 
 ## HTML
 I've started with the <head> tags I inserted the the title, setting the page to follow device witdth, character encoding, the mayer reset, a external rosource link for css file.
@@ -16,3 +16,19 @@ I've started with the <head> tags I inserted the the title, setting the page to 
   <link rel="stylesheet" type="text/css" href="main.css">
   <title>Header and Footer</title>
  </code></pre> 
+Inside the header tags I put the image with the logo company and 2 headings describing company name and location and inside the footer tags 
+
+<header>
+  <img src="https://i.imgur.com/GCNudvW.jpg" alt="Global Travel">
+  <h1>Global Travel Blog</h1>
+  <h2>Mother Earth</h2>
+</header>
+
+CSS
+
+The CSS helped to customized the elements from HTML part
+
+
+
+
+
