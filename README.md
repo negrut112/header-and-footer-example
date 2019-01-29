@@ -22,7 +22,7 @@
 &lt;h1&gt;Global Travel Blog&lt;/h1&gt;<br>
 &lt;h2&gt;Mother Earth&lt;/h2&gt;<br>
 &lt;/header&gt;</p>
-<p>&lt;footer&gt;<br>
+&lt;footer&gt;<br>
 &lt;div class=“wrapper”&gt;<br>
 &lt;small&gt;©2019 &lt;strong&gt;Awesome Company&lt;/strong&gt;, All Rights Reserved&lt;/small&gt;<br>
 &lt;nav class=“footer-nav”&gt;<br>
@@ -43,7 +43,8 @@ font-size: 1.25rem; // font size 1rem = 16px =&gt; font-size=16*1.25<br>
 color: #555; // color<br>
 margin: .67rem 0; // margin around the element<br>
 }
-<p>footer {<br>
+
+footer {<br>
 background: url(’<a href="http://i.imgur.com/f4jGhSF.png">http://i.imgur.com/f4jGhSF.png</a>') repeat center; // we can set customized the footer with CSS as well<br>
 display: table; // element will behave like a table element<br>
 width: 100vw; // 100% of the viewport width<br>
