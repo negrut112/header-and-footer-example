@@ -45,7 +45,7 @@ margin: .67rem 0; // margin around the element<br>
 }
 
 footer {<br>
-background: url(’<a href="http://i.imgur.com/f4jGhSF.png">http://i.imgur.com/f4jGhSF.png</a>') repeat center; // we can set customized the footer with CSS as well<br>
+background: url(’<a href="http://i.imgur.com/f4jGhSF.png">http://i.imgur.com/f4jGhSF.png</a>') repeat center; // we can set the footer background with CSS as well<br>
 display: table; // element will behave like a table element<br>
 width: 100vw; // 100% of the viewport width<br>
 height: 8rem; // 8*16px<br>
