@@ -13,6 +13,7 @@ header {
 
 header img {
   border: 1px solid rgba(0,0,0,.1);
+  border-radius: 50%;
 }
 
 header h1 {
